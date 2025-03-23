@@ -47,3 +47,4 @@ Arguments for `saliency_layer`:
 - [x] Scouring for Compute Resource: We'll use GPU this time via colab + vast.ai.
 - [ ] Add FastAPI integration for better serving into Cloud VMs.
 - [ ] Dockerize the code for better deployment into Cloud VMs.
+- [ ] Adding source/references.
